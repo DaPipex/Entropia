@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Orbwalker.cpp
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(42,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(57,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(180,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(181,17): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(313,17): warning C4244: "Initialisierung": Konvertierung von "float" in "DWORD", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(91,59): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(107,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(131,59): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(178,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(188,88): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(194,88): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(219,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(228,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(251,13): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(255,13): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Orbwalker.cpp(265,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Functions.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Shadow\Desktop\Entropia\Core\Invictus\Engine.h(50): warning C4715: "Engine::IsInObjManager": Nicht alle Codepfade geben einen Wert zurück.
+  All 122 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Invictus.vcxproj -> C:\Users\Shadow\Desktop\Entropia\Core\Release\Invictus.dll

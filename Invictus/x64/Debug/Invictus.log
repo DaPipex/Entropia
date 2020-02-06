@@ -1,0 +1,76 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\DebugConsole.h(10,1): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : Siehe Deklaration von "freopen"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(29,5): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "int *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(30,33): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "DWORD *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(30,34): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "char *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(32,23): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "char *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(24,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(24,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(24,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Vector *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(33,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(33,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(33,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "float *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(47,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(47,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(47,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "float *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(62,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(62,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(62,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "int *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(67,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(67,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(67,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "float *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(72,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "CObject *" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(72,1): warning C4302: "Typumwandlung": Verkürzung von "CObject *" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(72,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "float *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(18,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(18,1): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(18,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "DWORD *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(18,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "CObjectManager *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(23,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(23,1): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(24,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "DWORD *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(26,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "DWORD *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(29,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Vector *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(33,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(33,1): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(33,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "DWORD *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(37,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "CObject *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(42,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(42,1): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(42,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "float *"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(46,1): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(46,1): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Engine.h(47,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "void **"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(233,46): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(233,30): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(239,33): warning C4244: "=": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(407,51): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(407,33): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(413,34): warning C4244: "=": Konvertierung von "DWORD" in "float", möglicher Datenverlust
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(480,44): warning C4311: "Typumwandlung": Zeigerverkürzung von "HMODULE" zu "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(480,44): warning C4302: "Typumwandlung": Verkürzung von "HMODULE" in "DWORD"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(484,65): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsHero"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(485,70): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsMinion"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(486,70): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsTroyEnt"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(487,67): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsAlive"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(488,70): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsTurret"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(489,83): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnIsTargetable"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(491,100): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnGetAttackCastDelay"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(492,88): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnGetAttackDelay"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(493,85): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnWorldToScreen"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\dllmain.cpp(494,68): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Typedefs::fnGetPing"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(25,1): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "Function"
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(25,1): warning C4312:         with
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(25,1): warning C4312:         [
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(25,1): warning C4312:             Function=OriginalFn
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Modules.h(25,1): warning C4312:         ]
+  Objects.cpp
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(43): message : Siehe Verweis auf die gerade kompilierte Instanziierung "Function CallVirtual<OriginalFn>(PVOID,DWORD)" der Funktions-Vorlage.
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(43): message :         with
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(43): message :         [
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(43): message :             Function=OriginalFn
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Object.h(43): message :         ]
+  Code wird generiert...
+C:\Users\Shadow\Desktop\Invictus\Core - Internal\Invictus\Objects.cpp(38,1): fatal error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "pch.h"" einzufügen?
